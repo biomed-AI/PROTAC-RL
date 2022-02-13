@@ -1,6 +1,8 @@
 # PROTAC-RL
 
-To implement our models we were based on [OpenNMT-py (v0.4.1)](http://opennmt.net/OpenNMT-py/).
+Source code for the paper "Accelerated rational PROTAC design via deep learning and molecular simulations".
+
+The code was built based on [OpenNMT-py (v0.4.1)](http://opennmt.net/OpenNMT-py/).
 
 ## Install requirements
 
