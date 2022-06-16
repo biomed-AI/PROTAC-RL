@@ -1,5 +1,5 @@
 dataset_name=ZINC500
-prior_step=200000
+prior_step=300000
 random=random
 exp_id=1
 
