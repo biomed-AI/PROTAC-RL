@@ -1,8 +1,8 @@
 # PROTAC-RL
 
-Source code for the paper "Accelerated rational PROTAC design via deep learning and molecular simulations".
+Source code for the paper [Accelerated rational PROTAC design via deep learning and molecular simulations](https://www.nature.com/articles/s42256-022-00527-y).
 
-The code was built based on [OpenNMT-py (v0.4.1)](http://opennmt.net/OpenNMT-py/).
+
 
 ## Install requirements
 
@@ -89,4 +89,10 @@ bash testing_msearch_case.sh
 ```
 
 then find generation and log file in dBET6 case folder
+
+## Citation
+
+Please cite the following paper if you use this code in your work.
+
+Zheng, S., Tan, Y., Wang, Z. et al. Accelerated rational PROTAC design via deep learning and molecular simulations. Nat Mach Intell (2022). https://doi.org/10.1038/s42256-022-00527-y
 
