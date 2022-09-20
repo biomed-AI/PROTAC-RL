@@ -3,7 +3,7 @@
 Source code for the *Nature Machine Intelligence* paper [Accelerated rational PROTAC design via deep learning and molecular simulations](https://www.nature.com/articles/s42256-022-00527-y).
 
 
-![Protac-RL](TOC.png)
+![Protac-RL](TOC1.png)
 
 PROTAC-RL is a novel deep reinforcement learning-driven generative model for the rational design of PROTACs in a low-resource setting. 
 
