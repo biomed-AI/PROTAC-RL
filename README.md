@@ -1,8 +1,11 @@
 # PROTAC-RL
 
-Source code for the paper [Accelerated rational PROTAC design via deep learning and molecular simulations](https://www.nature.com/articles/s42256-022-00527-y).
+Source code for the *Nature Machine Intelligence* paper [Accelerated rational PROTAC design via deep learning and molecular simulations](https://www.nature.com/articles/s42256-022-00527-y).
 
 
+![Protac-RL](TOC.png)
+
+PROTAC-RL is a novel deep reinforcement learning-driven generative model for the rational design of PROTACs in a low-resource setting. 
 
 ## Install requirements
 
@@ -90,9 +93,20 @@ bash testing_msearch_case.sh
 
 then find generation and log file in dBET6 case folder
 
-## Citation
+## Reference
 
 Please cite the following paper if you use this code in your work.
 
-Zheng, S., Tan, Y., Wang, Z. et al. Accelerated rational PROTAC design via deep learning and molecular simulations. Nat Mach Intell (2022). https://doi.org/10.1038/s42256-022-00527-y
+```
+@article{zheng2022accelerated,
+  title={Accelerated rational PROTAC design via deep learning and molecular simulations},
+  author={Zheng, Shuangjia and Tan, Youhai and Wang, Zhenyu and Li, Chengtao and Zhang, Zhiqing and Sang, Xu and Chen, Hongming and Yang, Yuedong},
+  journal={Nature Machine Intelligence},
+  pages={1--10},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
+```
+## Contact
+[@Shuangjia](https://prokia.github.io/) 
 
