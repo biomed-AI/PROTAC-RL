@@ -71,6 +71,12 @@ then tune parameters to PROTACs
 bash preprocess.sh
 ```
 
+pre-training with ZINC data
+
+```
+bash training.sh
+```
+
 before fine-tuning, move `.vocab.pt` from ZINC dataset folder to PROTAC dataset folder and replace orgin one
 
 fine-tuning with PROTAC data
