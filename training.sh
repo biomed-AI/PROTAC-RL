@@ -1,4 +1,4 @@
-dataset_name=ZINC500
+dataset_name=ZINC
 prior_step=300000
 random=random
 exp_id=1
