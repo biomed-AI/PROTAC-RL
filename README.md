@@ -32,6 +32,9 @@ We use a shared vocabulary. The `vocab_size` and `seq_length` are chosen to incl
 
 In order to have the same vocabulary for pre-training and fine-tuning, remember to move `.vocab.pt` from `ZINC` dataset to `PROTAC` dataset after `PROTAC` dataset being pre-processed.
 
+**NOTICE**
+
+GitHub would ignore origin empty **log folder** in our code. To avoid the FileNotFoundError, you could `mkdir` a new **log folder** at first.
 
 ## Pre-training
 
